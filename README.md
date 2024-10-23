@@ -14,9 +14,6 @@
 
 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-###
-
-<h1></h1>
 
 ###
 
@@ -98,7 +95,3 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/t8ne/t8ne/output/snake.svg" alt="Snake animation" />
-
-###
-
-<h1></h1>
