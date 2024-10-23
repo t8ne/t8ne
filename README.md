@@ -92,6 +92,4 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <h1></h1>
 
-<br clear="both">
-
-<img src=".github\media\github-user-contribution.svg" alt="Snake animation" />
+<img align="center" src=".github\media\github-user-contribution.svg" alt="Snake animation" />
