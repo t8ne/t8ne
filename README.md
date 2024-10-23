@@ -94,4 +94,4 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/t8ne/t8ne/output/snake.svg" alt="Snake animation" />
+<img src=".github\media\github-user-contribution.svg" alt="Snake animation" />
