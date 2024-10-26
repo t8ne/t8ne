@@ -78,16 +78,6 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="30" alt="rails logo"  />
 </div>
 
-<h1></h1>
-
-###
-
-<div align="center">
-  <a href="https://linktr.ee/t8ne" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=My%20LINKS&logo=linktree&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linktree logo"  />
-  </a>
-</div>
-
 ###
 
 <h1></h1>
