@@ -14,4 +14,4 @@
 
 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-<img align="center" src=".github\media\github-user-contribution.svg" alt="Snake animation" />
+<img align="center" src=".github\media\snake.svg" alt="Snake animation" />
