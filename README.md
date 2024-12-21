@@ -15,3 +15,7 @@
 Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img align="center" src=".github\media\snake.svg" alt="Snake animation" />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=t8ne&color=grey&style=for-the-badge&label=Vistas%3A" alt="Vistas">
+</div>
