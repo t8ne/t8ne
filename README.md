@@ -16,6 +16,15 @@ Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <img align="center" src=".github\media\snake.svg" alt="Snake animation" />
 
+<!--
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=t8ne&color=grey&style=for-the-badge&label=Vistas%3A" alt="Vistas">
+  <img src="https://komarev.com/ghpvc/?username=t8ne&color=grey&style=for-the-badge&label=Views%3A" alt="Views">
 </div>
+-->
+
+<div align="center">
+  <a href="https://t8ne.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-black?style=for-the-badge" alt="Website">
+  </a>
+</div>
+
